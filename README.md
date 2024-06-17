@@ -1,2 +1,2 @@
-# Moment-Count-age-
-"Moment Count(age)" is a unique and engaging project designed to help you keep track of significant moments in your life by calculating the time elapsed since they occurred. Whether it's birthdays, anniversaries, or any other important events, this project provides a fun and interactive way to commemorate and reflect on these special occasions
+# Moment-Count
+Moment Count is a simple, yet effective application designed to help users stay motivated by providing a unique way to visualize the passage of time. Unlike traditional productivity tools like the Pomodoro Technique, which may not work for everyone, Moment Count focuses on the concept of age counting, offering a personalized and continuous reminder of the importance of each moment.
